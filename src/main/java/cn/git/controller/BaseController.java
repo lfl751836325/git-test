@@ -10,6 +10,8 @@ public class BaseController {
     @RequestMapping("/test")
     public String test(){
         System.out.println("这是一个测试");
-        return "hello234";
+
+        return "hello2345";
+
     }
 }
