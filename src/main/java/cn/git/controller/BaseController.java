@@ -11,7 +11,7 @@ public class BaseController {
     public String test(){
         System.out.println("这是一个测试2");
 
-        return "hello23456";
+        return "hello234563123sfsdfsfdsf";
 
     }
 }
